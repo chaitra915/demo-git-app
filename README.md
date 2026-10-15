@@ -1,2 +1,1 @@
-# demo-git-app
-# demo-git-app
+# demo-git-application
